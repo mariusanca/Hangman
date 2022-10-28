@@ -1,0 +1,66 @@
+html {
+    margin: auto;
+    padding-left: 150px;
+}
+
+.container {
+    padding-left: 150px;
+}
+
+.title {
+    padding-left: 5px;
+    margin: auto;
+    margin-bottom: 30px;
+}
+
+.insert-tab {
+    align-items: center;
+    text-align: center;
+    margin: auto;
+}
+
+.insert-text {
+    padding-left: 30px;
+}
+
+#input-word {
+    width: 200px;
+    margin: 10px 0px 30px 10px;
+}
+
+#save-button {
+    margin-left: 50px;
+}
+
+#try-button {
+    margin-left: 70px;
+    margin-bottom: 20px;
+}
+
+#input-letter {
+    width: 70px;
+    margin-left: 60px;
+    margin-bottom: 20px;
+}
+
+.output-word {
+    letter-spacing: 5px;
+    size: 30px;
+    margin-left: 50px;
+}
+
+.winning-message {
+    color: brown;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    margin-left: -120px;
+}
+
+.loosing-message {
+    color: blue;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    margin: 20px 10px 20px 25px;
+}
