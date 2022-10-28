@@ -64,3 +64,7 @@ html {
     line-height: 55px;
     margin: 20px 10px 20px 25px;
 }
+
+#display-word {
+    display: inline;
+}
