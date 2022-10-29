@@ -47,7 +47,7 @@ function displayWinner() {
 }
 
 function displayLoose() {
-    document.getElementById('insert-tab').innerHTML = '<h1 class="loosing-message">You lost!</h1';
+    document.getElementById('insert-tab').innerHTML = '<h1 class="loosing-message">No more attempts available. You lost!</h1';
 }
 
 function checkLetter(letter) {
